@@ -37,5 +37,6 @@ function removeLastKitten() {
   var newKittens = [...kittens];
   newKittens.pop();
   return newKittens;
-  
 }
+
+
